@@ -13,4 +13,4 @@ spec:
     spec:
       containers:
       - name: wil-app-img
-        image: wil42/playground:v1
+        image: wil42/playground:v2
